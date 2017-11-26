@@ -4,3 +4,4 @@
 - [Vulners](https://vulners.com/)
 - [Project Zero](https://googleprojectzero.blogspot.ru/)
 - [The Fuzzing Project](https://fuzzing-project.org/)
+- [Primal Security](http://www.primalsecurity.net)
